@@ -1,12 +1,9 @@
-<div align="center">
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/KaykyCrespo/KaykyCrespo/main/assets/kayky.jpg"
-    alt="Foto de Kayky Crespo"
-    width="160"
-  />
-</p>
+<div align="center"> 
+  <h1>Kayky Crespo</h1> 
+  <h3>Engenharia de Dados | Automação &amp; Analytics</h3> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=0B4DA2&center=true&vCenter=true&width=640&lines=Transformando+dados+em+decis%C3%B5es;ETL+%C2%B7+Data+Quality+%C2%B7+Automa%C3%A7%C3%A3o;Python+%C2%B7+SQL+%C2%B7+Snowflake+%C2%B7+Power+Platform" alt="Typing SVG" />
+</a>
+<br/>
 
 ## 📫 Contato
 
@@ -84,4 +81,9 @@ Trabalho do tratamento e visualização de dados até a construção de automaç
 
 
 
-## 📂 Repositórios
+## 📂 Repositórios Abaixo
+<div align="center">
+
+⬇️ ⬇️ ⬇️
+
+</div>
