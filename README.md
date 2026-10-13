@@ -35,7 +35,8 @@ Trabalho com processos de ETL, limpeza e modelagem de dados, desenvolvimento de 
 
 Reconhecimento pela apresentação oral da pesquisa intitulada **“Análise de desempenho em VMs comparando a criptografia RSA”**, envolvendo a análise de desempenho de máquinas virtuais e a avaliação de técnicas criptográficas.
 
-🔗 [Confira a publicação sobre a conquista no LinkedIn](https://lnkd.in/p/d_P8_N4m)
+🔗 <a href="https://lnkd.in/p/d_P8_N4m">Publicação no LinkedIn</a> |
+💻 <a href="https://github.com/KaykyCrespo/Benchmark_Criptografia_VMs">Código-fonte no GitHub</a>
 
 ### 🏅 Bolsa Atleta — UNIP Marquês
 
